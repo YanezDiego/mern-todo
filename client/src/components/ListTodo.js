@@ -18,3 +18,5 @@ const ListTodo = ({todos, deleteTodo}) => {
            </ul> 
     )
 }
+
+export default ListTodo
